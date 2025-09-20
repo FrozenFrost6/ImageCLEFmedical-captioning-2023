@@ -34,14 +34,14 @@ If you find our work useful in your research, don't forget to cite us!
 
 ## Objectives
 
-To develop automatic methods that can approximate a mapping from visual information to condensed textual descriptions, towaed interpreting and summarizing the insights gained from medical images such as radiology outputs and histology slides. To this end, the contest breaks this objective down to a sequence of two tasks.
+To develop automatic methods that can approximate a mapping from visual information to condensed textual descriptions, toward interpreting and summarizing the insights gained from medical images such as radiology outputs and histology slides. To this end, the contest breaks this objective down to a sequence of two tasks.
 
 ### Task A: Concept Detection
 
 Automatic image captioning and scene understanding to identify the presence and location of relevant concepts in the given medical image.
 Concepts are derived from the [UMLS medical metathesaurus](https://www.nlm.nih.gov/research/umls/index.html).
 
-### Task B: Caption Predcition
+### Task B: Caption Prediction
 
 On the basis of the concept vocabulary detected in the first subtask as well as the visual information of their interaction in the image, this task is aimed at composing coherent captions for the entirety of an image. 
 
